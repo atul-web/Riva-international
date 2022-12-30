@@ -1,0 +1,45 @@
+[25-Nov-2022 16:18:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[25-Nov-2022 16:18:31 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[25-Nov-2022 16:18:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[25-Nov-2022 16:18:31 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[25-Nov-2022 16:18:31 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[29-Nov-2022 21:36:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[29-Nov-2022 21:36:30 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[29-Nov-2022 21:36:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[29-Nov-2022 21:36:30 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[29-Nov-2022 21:36:30 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[01-Dec-2022 00:58:29 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[01-Dec-2022 00:58:29 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[01-Dec-2022 00:58:29 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[01-Dec-2022 00:58:29 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[01-Dec-2022 00:58:29 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[05-Dec-2022 18:02:28 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[05-Dec-2022 18:02:28 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[05-Dec-2022 18:02:28 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[05-Dec-2022 18:02:28 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[05-Dec-2022 18:02:28 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[09-Dec-2022 13:49:16 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[09-Dec-2022 13:49:16 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Dec-2022 13:49:16 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[09-Dec-2022 13:49:16 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Dec-2022 13:49:16 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[10-Dec-2022 09:12:40 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[10-Dec-2022 09:12:40 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[10-Dec-2022 09:12:40 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[10-Dec-2022 09:12:40 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[10-Dec-2022 09:12:40 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[11-Dec-2022 11:24:53 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[11-Dec-2022 11:24:53 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[11-Dec-2022 11:24:53 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[11-Dec-2022 11:24:53 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[11-Dec-2022 11:24:53 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[16-Dec-2022 06:01:32 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[16-Dec-2022 06:01:32 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[16-Dec-2022 06:01:32 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[16-Dec-2022 06:01:32 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[16-Dec-2022 06:01:32 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[20-Dec-2022 13:54:02 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[20-Dec-2022 13:54:02 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[20-Dec-2022 13:54:02 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home4/hoteltip/hotelrivainternational.com/contact.php) is not within the allowed path(s): (G:/PleskVhosts//hotelmogulpalace.com\;C:\Windows\Temp\) in Unknown on line 0
+[20-Dec-2022 13:54:02 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[20-Dec-2022 13:54:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/home4/hoteltip/hotelrivainternational.com/contact.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
